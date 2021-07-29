@@ -10,3 +10,7 @@ new SimpleSlide({
     nav: true
 })
 }
+
+if(window.SimpleSlide) { //Só se o SimpleAnime existir
+new SimpleAnime();
+}
