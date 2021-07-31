@@ -11,6 +11,6 @@ new SimpleSlide({
 })
 }
 
-if(window.SimpleSlide) { //Só se o SimpleAnime existir
+if(window.SimpleAnime) { //Só se o SimpleAnime existir
 new SimpleAnime();
 }
