@@ -458,4 +458,16 @@ img {
     transition: opacity 800ms; transform: 800ms;
 }
 
+.nao-aparece { /*meu robô só aparece, porque não está totalmente configurado*/
+    visibility: hidden;
+    position: absolute;
+    height: 0px;
+}
 
+#form-sucesso {
+    color: #31aa39;
+}
+
+#form-erro {
+    color: #f64540;
+}
