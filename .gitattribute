@@ -1,1 +1,2 @@
 sitebikcraft/js/* linguist-vendored
+docs/formatter.rb linguist-documentation=false
