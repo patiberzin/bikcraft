@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # bikcraft
 Projeto do curso de Web Design da Origamid
 OBS: Na parte do formulário (commitada como configuracoes formulario), eu não solicitei ao site sendgrid.com a API, por isso, a parte do robô está aparecendo no navegador. Mas ela deveria ter ficado invisivel.
@@ -6,3 +7,7 @@ OBS: Na parte do formulário (commitada como configuracoes formulario), eu não 
 # sitebikcraft
 Projeto do curso de Web Design da Origamid
 >>>>>>> d0f7bba711bf128115165dbde20d70055fb50fc2
+=======
+# bikcraft
+Projeto do curso de Web Design da Origamid
+>>>>>>> 99643f081e3ddbfab8138aeec13f09ca3063a517
