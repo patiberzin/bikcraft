@@ -1,0 +1,8 @@
+sitebikcraft/js/* linguist-vendored
+docs/formatter.rb linguist-documentation=false
+
+source "https://rubygems.pkg.github.com/github" do
+  gem "github-linguist", "7.16.1"
+end
+
+gem install github-linguist --version "7.16.1" --source "https://rubygems.pkg.github.com/github"
